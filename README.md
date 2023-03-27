@@ -9,27 +9,29 @@
 
 # I. Network Architecture and Core Components
 
--   Network hierarchy and topology of CYFS protocol
--   Main node types and responsibilities
+-   Hierarchy and topology of CYFS protocol
+-   Naming data and property rights
 -   Core components and functional modules
 
-# II. Communication and Data Transmission
+# II. DECApp Development
 
--   Peer-to-peer communication protocol BDT
--   Data transmission and encryption
--   Network optimization and congestion control strategies
+-   DECApp architecture and development framework
+-   DECApp debugging and deployment process
 
-# III. Consensus Mechanism and Security
+# III. Security and Authentication
+
+-   CYFS permission system
+
+# IV. Shared Data Property Rights
 
 -   Consensus algorithm adopted by CYFS protocol
 -   Process of validation and consensus achievement
 -   Concurrent computing and throughput optimization
 
-# IV. DECApp Development
+# V. Communication and Data Transmission
 
--   DECApp architecture and development framework
--   DECApp debugging and deployment process
+-   Peer-to-peer communication protocol BDT
+-   Data transmission and encryption
+-   Network optimization and congestion control strategies
 
-# V. Privacy Protection
-
--   CYFS permission system
+# VI. MetaChain
