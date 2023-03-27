@@ -24,8 +24,8 @@
 
 # IV. Data Sharing Property Rights
 
--   Consensus algorithm adopted by CYFS protocol
--   Process of validation and consensus achievement
+-   Scenarios and objectives
+-   Proposal and consensus achievement process
 -   Concurrent computing and throughput optimization
 
 # V. `cyfs://` Protocol
