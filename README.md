@@ -10,7 +10,7 @@
 # I. Network Architecture and Core Components
 
 -   Hierarchy and topology of CYFS protocol
--   Naming data and property rights
+-   Naming data and data property rights
 -   Core components and functional modules
 
 # II. DECApp Development
@@ -22,7 +22,7 @@
 
 -   CYFS permission system
 
-# IV. Shared Data Property Rights
+# IV. Data Sharing Property Rights
 
 -   Consensus algorithm adopted by CYFS protocol
 -   Process of validation and consensus achievement
