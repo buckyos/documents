@@ -28,10 +28,16 @@
 -   Process of validation and consensus achievement
 -   Concurrent computing and throughput optimization
 
-# V. Communication and Data Transmission
+# V. `cyfs://` Protocol
+
+-   `cyfs://o/`
+-   `cyfs://r/`
+-   `cyfs://a/`
+
+# VI. Communication and Data Transmission
 
 -   Peer-to-peer communication protocol BDT
 -   Data transmission and encryption
 -   Network optimization and congestion control strategies
 
-# VI. MetaChain
+# VII. MetaChain
