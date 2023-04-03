@@ -16,16 +16,16 @@
 # II. DECApp Development
 
 -   DECApp architecture and development framework
--   DECApp debugging and deployment process
+-   DECApp debugging and deployment
 
 # III. Security and Authentication
 
 -   CYFS permission system
 
-# IV. Data Sharing Property Rights
+# IV. Sharing Property Rights
 
--   Consensus algorithm adopted by CYFS protocol
--   Process of validation and consensus achievement
+-   Scenarios and objectives
+-   Proposal and consensus achievement process
 -   Concurrent computing and throughput optimization
 
 # V. `cyfs://` Protocol
