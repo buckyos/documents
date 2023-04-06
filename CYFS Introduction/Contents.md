@@ -26,6 +26,7 @@
 
 -   Scenarios and objectives
 -   Proposal and consensus achievement process
+-   Status verification
 -   Concurrent computing and throughput optimization
 
 # V. `cyfs://` Protocol
