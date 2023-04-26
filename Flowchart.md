@@ -1,5 +1,7 @@
 ```mermaid
 graph TB
+    Start(Start)-->Fork
+
     subgraph Writer
         Fork[Fork branch `draft`]-->Write[Create or update document]-->Post[Post `Pull request` to the official repository]-->Discuss[Create a discussion or issue]-->Wait[Wait feedback]-->Accept{Accept?}--yes-->Done(Done)
         Accept--no-->Write
