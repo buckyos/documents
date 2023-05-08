@@ -4,15 +4,15 @@
 
 # Introduction
 
-# 1. Basic type
+# I. Basic type
 
 ## Multiple encoding methods (Raw/Protobuf/JSON)
 
-## simple type (integer/variable integer/float/timestamp/string/ObjectId...)
+## Simple type (integer/variable integer/float/timestamp/string/ObjectId...)
 
 ## Composite types (arrays/enumerations/structs, etc.)
 
-# 2. Object encoding format
+# II. Object encoding format
 
 ## Object general structure
 
